@@ -23,4 +23,4 @@ Veri kümesi 21613 satır ve 21 sütun içermektedir. Her satır, bir ev satış
 - sqft_living15: En yakın 15 mülkün yaşam alanı büyüklüğü fit kare cinsinden
 - sqft_lot15: En yakın 15 mülkün arsa büyüklüğü fit kare cinsinden
 
-[Kaggle](https://www.kaggle.com/datasets/sukhmandeepsinghbrar/housing-price-dataset)
+[Kaggle](https://www.kaggle.com/code/ismailcankaratas/housing-analysis-regression)
