@@ -1,4 +1,4 @@
-# Boston Housing ML
+# Housing Data Analysis
 Veri kümesi 21613 satır ve 21 sütun içermektedir. Her satır, bir ev satışına ilişkin bilgileri içerir. Amacımız, diğer sütunlardaki değerleri kullanarak "price" sütunundaki değeri tahmin etmektir. Bu sayede, evin özelliklerine dayanarak yeni satışların fiyatlarını tahmin edebiliriz.
 
 # Sütunlar
@@ -9,7 +9,8 @@ Veri kümesi 21613 satır ve 21 sütun içermektedir. Her satır, bir ev satış
 - sqft_living: Yaşam alanı büyüklüğü metrekare cinsinden
 - sqft_lot: Toplam arsa büyüklüğü metrekare cinsinden
 - floors: Kat sayısı
-- waterfront: Mülkün su kenarı manzarası olup olmadığını belirtir (0 hayır, 1 evet). - view: Mülkün kalite seviyesi görünümü (0 ila 4)
+- waterfront: Mülkün su kenarı manzarası olup olmadığını belirtir (0 hayır, 1 evet).
+- view: Mülkün kalite seviyesi görünümü (0 ila 4)
 - condition: Genel durum derecesi (1 ila 5)
 - grade: Genel derece derecesi (1 ila 13)
 - sqft_above: Zemin seviyesinden yüksekte yaşam alanı, fit kare cinsinden
